@@ -174,7 +174,8 @@ curl -G 'http://localhost:8428/api/v1/query' --data-urlencode 'query=OILCOINT_me
 (Значение 0 меняем на любое другое)
 * Копируем переменную OILCOINT_metric1 и вставляем в cod
 * Нажимаем run 
-![image](https://github.com/user-attachments/assets/49d9f76a-a545-485d-b191-ae67ebf6ddc3)
+![скрин](https://github.com/user-attachments/assets/5a9bacdc-85e4-4942-9bd5-2a467793afa1)
+
 * Должно получится вот так
 
 
